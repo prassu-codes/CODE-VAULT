@@ -14,6 +14,7 @@ DSA Solutions and Key Patterns - DSA404
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -22,5 +23,22 @@ DSA Solutions and Key Patterns - DSA404
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
