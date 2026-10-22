@@ -14,6 +14,7 @@ DSA Solutions and Key Patterns - DSA404
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prassu-codes/CODE-VAULT/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -28,6 +29,7 @@ DSA Solutions and Key Patterns - DSA404
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prassu-codes/CODE-VAULT/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
