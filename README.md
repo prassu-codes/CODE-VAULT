@@ -15,6 +15,7 @@ DSA Solutions and Key Patterns - DSA404
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prassu-codes/CODE-VAULT/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -43,4 +44,8 @@ DSA Solutions and Key Patterns - DSA404
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
