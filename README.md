@@ -48,4 +48,8 @@ DSA Solutions and Key Patterns - DSA404
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/prassu-codes/CODE-VAULT/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
