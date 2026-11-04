@@ -52,4 +52,8 @@ DSA Solutions and Key Patterns - DSA404
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prassu-codes/CODE-VAULT/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/prassu-codes/CODE-VAULT/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
