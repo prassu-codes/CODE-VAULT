@@ -18,16 +18,19 @@ DSA Solutions and Key Patterns - DSA404
 | [0027-remove-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prassu-codes/CODE-VAULT/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/prassu-codes/CODE-VAULT/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/prassu-codes/CODE-VAULT/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prassu-codes/CODE-VAULT/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/prassu-codes/CODE-VAULT/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prassu-codes/CODE-VAULT/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -35,6 +38,7 @@ DSA Solutions and Key Patterns - DSA404
 | [0001-two-sum](https://github.com/prassu-codes/CODE-VAULT/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prassu-codes/CODE-VAULT/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/prassu-codes/CODE-VAULT/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +55,7 @@ DSA Solutions and Key Patterns - DSA404
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/prassu-codes/CODE-VAULT/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/prassu-codes/CODE-VAULT/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
